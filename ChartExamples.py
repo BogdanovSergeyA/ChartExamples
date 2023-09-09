@@ -9,4 +9,3 @@ window.title("Примеры построения графиков")
  
 #запуск цикла mainloop
 window.mainloop()
-
